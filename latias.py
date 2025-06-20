@@ -5,7 +5,7 @@ from openpyxl.drawing.image import Image as XLImage
 from openpyxl.utils import get_column_letter
 import tempfile
 
-API_KEY = "ccf311da-fbd7-48be-868d-a210163adc7a"
+API_KEY = "haha im stupid"
 URL     = "https://api.pokemontcg.io/v2/cards"
 PAGE_SIZE = 250  # max per page
 
