@@ -1,2 +1,2 @@
 # pokemon
-Repo for using API's to find pokemone cards
+Repo for using API's to find pokemon cards
